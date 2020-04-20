@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Toko_hedon", "Toko_hedon.pyproj", "{2F2D6E6D-3C3F-476A-9CAD-0C28BD989C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F2D6E6D-3C3F-476A-9CAD-0C28BD989C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2D6E6D-3C3F-476A-9CAD-0C28BD989C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34467141-6E12-48BF-B99D-8AA8D5C5BA4B}
+	EndGlobalSection
+EndGlobal
